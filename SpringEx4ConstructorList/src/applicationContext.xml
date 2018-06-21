@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+<bean id="employee" class="com.spring.test.Employee">
+<constructor-arg value="101"></constructor-arg>
+<constructor-arg value="Ravi Kumar"></constructor-arg>
+	<constructor-arg>
+		<list>
+			<value>4/5 Jamnagar</value>
+			<value>Jaipur</value>
+			<value>Rajasthan</value>
+			<value>4/567 Vaishali Nagar</value>
+			<value>Jaipur</value>
+			<value>Rajasthan</value>
+		</list>
+	</constructor-arg>		
+</bean>
+
+</beans>
