@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/aspectj-weaver.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/com.springsource.org.objectweb.asm-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/jmx-logger.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-aop-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-asm-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-aspects-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-beans-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-context-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-context-support-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-core-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-expression-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-instrument-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-jdbc-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-jms-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-orm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-oxm-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-test-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/SpringEx22JdbcTemplatePreparedStatement/lib/spring-tx-3.2.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
